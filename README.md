@@ -1,5 +1,12 @@
 # omp-effort
 
+> **Moved.** This plugin now lives in [danieljohnmorris/omp-plugins](https://github.com/danieljohnmorris/omp-plugins/tree/main/plugins/effort) (full history preserved). This repository is archived.
+>
+> ```sh
+> omp plugin marketplace add danieljohnmorris/omp-plugins
+> omp plugin install effort@omp-plugins
+> ```
+
 An [omp](https://github.com/can1357/oh-my-pi) extension that shows the thinking
 effort (reasoning level) in the status area.
 
